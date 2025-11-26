@@ -2,7 +2,7 @@
 <a href="https://mini-swe-agent.com/latest/"><img src="https://raw.githubusercontent.com/live-swe-agent/live-swe-agent.github.io/refs/heads/main/img/livesweagent.png" alt="mini-swe-agent banner" style="height: 8em"/></a>
 </div>
 
-# Live-SWE-agent: live, self-evolving software agent
+<h1 align="center">Live-SWE-agent | The First Live AI Software Agent</h1>
 
 <p align="center">
     <a href="https://live-swe-agent.github.io/"><img src="https://img.shields.io/badge/%F0%9F%8F%86-leaderboard-8A2BE2?style=for-the-badge"></a>
